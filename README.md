@@ -47,6 +47,3 @@ sql-sales-analysis/
 
 A complete SQL-based analysis that transforms raw sales data into meaningful business insights.
 
-## 📌 Note
-
-This project is part of my data analyst portfolio showcasing SQL-based data analysis and EDA skills.
